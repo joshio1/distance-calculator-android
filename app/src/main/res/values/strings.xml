@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DistanceCalculator</string>
+    <string name="hostString">Host:</string>
+    <string name="usernameString">Username:</string>
+    <string name="title_location_permission">Location</string>
+    <string name="text_location_permission">Do you want to allow location?</string>
+    <string name="ok">OK</string>
+</resources>
