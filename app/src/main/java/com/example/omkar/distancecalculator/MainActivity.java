@@ -40,9 +40,10 @@ public class MainActivity extends AppCompatActivity {
 
     // start variable to send the additional variable in the first request
     boolean start;
-    // random integer which acts as a constant. This same constant is used to retrieve when user responds with the request.
+    // random integer which acts as a constant. This same constant is used to retrieve when user responds with the request
     final static int MY_PERMISSIONS_REQUEST_ACCESS_FINE_LOCATION = 45;
-
+    
+    //OnCreate method
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
